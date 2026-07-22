@@ -3,7 +3,7 @@
 # 📐 Beyond the Diagram
 ### An Empirical Study of Source-Code-Derived Software Architecture
 
-*Under review — APSEC 2026 (double-blind)*
+*Under review: APSEC 2026 (double-blind)*
 
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21462409-blue?logo=zenodo)](https://doi.org/10.5281/zenodo.21462409)
 [![Projects](https://img.shields.io/badge/Projects-50-green)](#contents)
@@ -16,7 +16,7 @@
 
 ## 🔍 What Is This?
 
-Developer-published architecture diagrams are an attractive evaluation reference for architecture recovery and LLM-based diagram generation — they are publicly available at scale. But **do they actually represent implemented software architecture?**
+Developer-published architecture diagrams are an attractive evaluation reference for architecture recovery and LLM-based diagram generation. They are publicly available at scale. But **do they actually represent implemented software architecture?**
 
 This repository contains the manual analysis datasets for the first empirical study of this question. We examine **50 open-source infrastructure projects**, each with a published developer diagram, and compare three architectural perspectives:
 
