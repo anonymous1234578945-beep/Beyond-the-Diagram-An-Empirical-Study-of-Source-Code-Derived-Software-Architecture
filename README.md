@@ -10,8 +10,8 @@ This repository contains the manual analysis datasets. The complete replication 
 
 | File | Description | Supports |
 |---|---|---|
-| `ANALYSIS ananymous.xlsx` | Master spreadsheet, one row per project. Sheets: `HUMAN` (independent source-code-derived labels from all three analysts, with evidence summaries), `DEVELOPER` (developer diagram viewpoint and primary-type labels), `CLAUDE`, `Gemini`, `GPT 5` (first-round per-model outputs), `SUMMARY`, `STYLE AGREEMENT` (cross-perspective agreement) | RQ1–RQ4; Tables IV–X |
-| `human analysis 1-20.docx`, `human analysis 21-40.docx`, `human analysis 40-50.docx` | Per-project source-code proof narratives for the independent analysis: primary type and sub-architecture evidence tied to specific directories, files, and mechanisms | RQ1; Section II-C1 |
+| `ANALYSIS anonymous.xlsx` | Master spreadsheet, one row per project. Sheets: `HUMAN` (independent source-code-derived labels from all three analysts, with evidence summaries), `DEVELOPER` (developer diagram viewpoint and primary-type labels), `CLAUDE`, `Gemini`, `GPT 5` (first-round per-model outputs), `SUMMARY`, `STYLE AGREEMENT` (cross-perspective agreement) | RQ1–RQ4; Tables IV–X |
+| `human analysis 1-20.docx`, `human analysis 21-40.docx`, `human analysis 41-50.docx` | Per-project source-code proof narratives for the independent analysis: primary type and sub-architecture evidence tied to specific directories, files, and mechanisms | RQ1; Section II-C1 |
 | `DIAGRAM ANALYSIS 50 (1).pdf`, `DIAGRAM ANALYSIS 50 (2).pdf` | Per-project developer diagram analyses: the collected diagrams with viewpoint and primary-type classification rationale | RQ2, RQ3; Tables V–VII |
 | `prompt.docx` | The Architecture Classification Scheme definitions (11 types with references) used as the fixed prompt for all three LLMs and as the analyst codebook basis | Section II-B, II-C3 |
 
